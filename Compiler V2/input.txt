@@ -1,0 +1,53 @@
+bool var_bool;
+bool var_booll;
+int var_int;
+int var_intt;
+real var_real;
+real var_reall;
+
+var_bool := 0;
+var_booll := 1;
+write var_bool;
+write var_booll;
+var_bool := 0.2;
+var_booll := 12.2;
+write var_bool;
+write var_booll;
+var_bool := 5;
+var_booll := var_bool;
+write var_bool;
+write var_booll;
+var_bool := 0;
+
+var_int := 15;
+var_intt := var_int;
+write var_int;
+write var_intt;
+var_intt := 9.8;
+write var_intt;
+var_int:= var_int ^ 2.2 + 5.3 * var_intt;
+write var_int;
+write var_int ^ 2.2 + 5.3 * var_intt;
+
+var_real := 5;
+var_reall := var_real;
+write var_real;
+write var_reall;
+var_reall := 25.5;
+write var_reall;
+var_real := 5 / 2.2 * var_real - var_reall;
+write var_real;
+write 5 / 2.2 * var_real - var_reall;
+
+if var_booll then
+    write 99999999
+end;
+
+repeat
+    write 8888888888
+until var_booll
+
+
+
+
+

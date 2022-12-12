@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1620566290 source:d:\fci\2nd semister grade 4\compilers\codes\compilerstasks\compilerstask_1_scanner.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+
+1621948965 source:d:\fci\2nd semister grade 4\compilers\codes\compilerstasks\compilerstask_2_parser.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+
+1622122287 source:d:\fci\2nd semister grade 4\compilers\assignments\assignment 1\compilerstask_3_codegenerator.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+

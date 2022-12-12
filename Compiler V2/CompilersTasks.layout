@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="CompilersTask_3_CodeGenerator.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2907" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="177" />
+			<Collapse line="182" />
+			<Collapse line="188" />
+			<Collapse line="194" />
+			<Collapse line="218" />
+			<Collapse line="228" />
+			<Collapse line="245" />
+			<Collapse line="255" />
+			<Collapse line="374" />
+			<Collapse line="516" />
+			<Collapse line="530" />
+			<Collapse line="593" />
+			<Collapse line="618" />
+			<Collapse line="642" />
+			<Collapse line="666" />
+			<Collapse line="691" />
+			<Collapse line="707" />
+			<Collapse line="724" />
+			<Collapse line="743" />
+			<Collapse line="759" />
+			<Collapse line="777" />
+			<Collapse line="795" />
+			<Collapse line="819" />
+			<Collapse line="848" />
+			<Collapse line="873" />
+			<Collapse line="896" />
+			<Collapse line="916" />
+			<Collapse line="965" />
+			<Collapse line="977" />
+			<Collapse line="1011" />
+			<Collapse line="1061" />
+			<Collapse line="1186" />
+			<Collapse line="1193" />
+			<Collapse line="1214" />
+			<Collapse line="1308" />
+			<Collapse line="1321" />
+			<Collapse line="1354" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
